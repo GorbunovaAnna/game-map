@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mapWrapper {
+    width: 40%;
+    margin: 100px auto;
+    position: relative;
+}
+
+#mapWrapper img {
+    width: 100%;
+}
+
+#hint {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 6rem;
+    font-weight: 600;
+}
